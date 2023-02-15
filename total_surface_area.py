@@ -1,0 +1,5 @@
+a=float(input())
+r=a/(3.14)
+r=r**(1/2)
+h=float(input())
+print("tsa=",(2*3.14*r*r)+(2*3.14*r*h))
